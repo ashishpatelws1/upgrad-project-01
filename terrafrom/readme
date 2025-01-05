@@ -1,0 +1,13 @@
+1. Install Terrafrom on EC2 instance
+
+2. Create VPC, SN, EC2
+
+Commands: 
+terraform init
+
+terrafrom plan
+
+terrafrom apply
+
+terrafrom destroy
+
